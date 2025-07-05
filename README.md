@@ -59,7 +59,7 @@ A **Linear Regression** model was trained using `scikit-learn` to predict the em
    cd GHG-Emission-Predictor
 2.**Install dependencies**
    
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. **Run the app**
 
