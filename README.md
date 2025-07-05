@@ -65,12 +65,14 @@ A **Linear Regression** model was trained using `scikit-learn` to predict the em
 
       streamlit run app.py
    
+
 ## 🙌 Acknowledgements
 Dataset Source: Supply Chain Emission Factors
 
 Developed using: Python, Scikit-learn, Streamlit
 
 Special thanks to AICTE, Edunet Foundation, and Shell for the guidance and opportunity.
+
 
 ## 💡 Future Work
 Expand to multiple regression models and model selection
@@ -80,6 +82,7 @@ Add model evaluation metrics to the UI
 Include visualizations of predicted vs actual values
 
 Deploy on platforms like Streamlit Cloud or Render
+
 ## 📬 Contact
    ## Atharva Joshi
 ## Gmail: atharvajoshi046@gmail.com
