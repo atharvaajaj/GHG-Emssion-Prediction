@@ -63,7 +63,7 @@ A **Linear Regression** model was trained using `scikit-learn` to predict the em
 
 3. **Run the app**
 
-     streamlit run app.py
+      streamlit run app.py
    
 ## 🙌 Acknowledgements
 Dataset Source: Supply Chain Emission Factors
