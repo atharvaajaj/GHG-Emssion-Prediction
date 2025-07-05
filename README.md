@@ -81,6 +81,6 @@ Include visualizations of predicted vs actual values
 
 Deploy on platforms like Streamlit Cloud or Render
 ## 📬 Contact
-   Atharva Joshi
+   ## Atharva Joshi
 ## Gmail: atharvajoshi046@gmail.com
 ## 🔗[GitHub Profile](https://github.com/atharvaajaj)
