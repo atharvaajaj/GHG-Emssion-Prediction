@@ -12,13 +12,19 @@ Greenhouse gas (GHG) emissions from supply chains play a critical role in assess
 
 ## 📁 Project Structure
 ├── app.py # Streamlit app
+
 ├── GHG.ipynb # Model training and data preprocessing notebook
+
 ├── SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx # Raw dataset
+
 ├── models/
 │ ├── LR_model.pkl # Trained linear regression model
+
 │ └── scaler.pkl # StandardScaler used for feature normalization
 ├── utils/
+
 │ └── preprocessor.py # Data preprocessing functions
+
 ├── requirements.txt # Python dependencies
 
 ## 🚀 Features
@@ -51,10 +57,13 @@ A **Linear Regression** model was trained using `scikit-learn` to predict the em
    git clone https://github.com/<your-username>/GHG-Emission-Predictor.git
    cd GHG-Emission-Predictor
 2.**Install dependencies**
+   
    pip install -r requirements.txt
 
 3. **Run the app**
+
    streamlit run app.py
+   
 ## 🙌 Acknowledgements
 Dataset Source: Supply Chain Emission Factors
 
@@ -71,6 +80,6 @@ Include visualizations of predicted vs actual values
 
 Deploy on platforms like Streamlit Cloud or Render
 ## 📬 Contact
-Atharva Joshi
-atharvajoshi046@gmail.com
+   Atharva Joshi
+## Gmail: atharvajoshi046@gmail.com
 ## 🔗[GitHub Profile](https://github.com/atharvaajaj)
