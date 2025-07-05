@@ -21,6 +21,7 @@ Greenhouse gas (GHG) emissions from supply chains play a critical role in assess
 │ ├── LR_model.pkl # Trained linear regression model
 
 │ └── scaler.pkl # StandardScaler used for feature normalization
+
 ├── utils/
 
 │ └── preprocessor.py # Data preprocessing functions
