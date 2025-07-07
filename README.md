@@ -1,6 +1,7 @@
 # 🌍 Greenhouse Gas Emission Predictor
 
 This project presents a machine learning-powered web application that predicts **Supply Chain Emission Factors with Margins** using various **Data Quality (DQ) metrics**, based on a dataset of US industry and commodity emission factors. Built with **Streamlit**, this tool provides a quick and interactive way to estimate emissions for different substances.
+Here is the Hugging Face Link: https://huggingface.co/spaces/Atharva046/GHG-Emission-Predictor
 
 ## 🔍 Overview
 
